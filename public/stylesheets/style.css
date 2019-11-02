@@ -1,0 +1,12 @@
+body {
+  padding: 0em;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.jumbotron {
+  background-image: url(../images/jumbotron.jpg);
+  height: 100%;
+}
